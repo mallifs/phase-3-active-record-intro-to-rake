@@ -6,5 +6,5 @@ gem 'rake'
 gem 'sqlite3', '~>1.4'
 
 group :test do
-  gem 'rspec'
+  gem 'rspec', '~> 3.12'
 end
